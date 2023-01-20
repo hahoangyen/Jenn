@@ -1,0 +1,15 @@
+C:\Users\300372205\Desktop\YAssignment1\bin\Debug\net6.0\YAssignment1.exe
+C:\Users\300372205\Desktop\YAssignment1\bin\Debug\net6.0\YAssignment1.deps.json
+C:\Users\300372205\Desktop\YAssignment1\bin\Debug\net6.0\YAssignment1.runtimeconfig.json
+C:\Users\300372205\Desktop\YAssignment1\bin\Debug\net6.0\YAssignment1.dll
+C:\Users\300372205\Desktop\YAssignment1\bin\Debug\net6.0\YAssignment1.pdb
+C:\Users\300372205\Desktop\YAssignment1\obj\Debug\net6.0\YAssignment1.csproj.AssemblyReference.cache
+C:\Users\300372205\Desktop\YAssignment1\obj\Debug\net6.0\YAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\300372205\Desktop\YAssignment1\obj\Debug\net6.0\YAssignment1.AssemblyInfoInputs.cache
+C:\Users\300372205\Desktop\YAssignment1\obj\Debug\net6.0\YAssignment1.AssemblyInfo.cs
+C:\Users\300372205\Desktop\YAssignment1\obj\Debug\net6.0\YAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\300372205\Desktop\YAssignment1\obj\Debug\net6.0\YAssignment1.dll
+C:\Users\300372205\Desktop\YAssignment1\obj\Debug\net6.0\refint\YAssignment1.dll
+C:\Users\300372205\Desktop\YAssignment1\obj\Debug\net6.0\YAssignment1.pdb
+C:\Users\300372205\Desktop\YAssignment1\obj\Debug\net6.0\YAssignment1.genruntimeconfig.cache
+C:\Users\300372205\Desktop\YAssignment1\obj\Debug\net6.0\ref\YAssignment1.dll
